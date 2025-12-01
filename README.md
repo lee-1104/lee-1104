@@ -19,6 +19,9 @@ AWS Cloud Engineer | MSP | Based in Japan
 
 Languages : 한국어 🇰🇷 | 💬 English 🇺🇸 | 日本語 🇯🇵 
 
+## 💼 Work
+- Cloud Engineer @ MSP (2024.10 - Present)
+
 ## 🛠️ Tech Stack
 ### **Cloud & Infrastructure**
 - AWS (EC2, ECS, Lambda, etc.)
